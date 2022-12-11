@@ -1,7 +1,7 @@
 package com.nest.nestemployeeapp.controller;
 
-import com.example.NestEmployApp_BackEnd.dao.TaskDao;
-import com.example.NestEmployApp_BackEnd.model.Task;
+import com.nest.nestemployeeapp.dao.TaskDao;
+import com.nest.nestemployeeapp.model.Task;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

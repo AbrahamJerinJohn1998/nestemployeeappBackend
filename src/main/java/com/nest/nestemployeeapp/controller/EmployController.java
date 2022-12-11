@@ -1,7 +1,7 @@
 package com.nest.nestemployeeapp.controller;
 
-import com.example.NestEmployApp_BackEnd.dao.EmployDao;
-import com.example.NestEmployApp_BackEnd.model.Employ;
+import com.nest.nestemployeeapp.dao.EmployDao;
+import com.nest.nestemployeeapp.model.Employ;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.PostMapping;
